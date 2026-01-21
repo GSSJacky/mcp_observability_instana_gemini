@@ -1,0 +1,6 @@
+mcp
+google-genai
+traceloop-sdk
+python-dotenv
+Pillow
+uvicorn
